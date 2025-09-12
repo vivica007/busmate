@@ -1,1 +1,3 @@
-<h1>FDS</h1>
+<?php 
+echo "semata porra do krl vou me matar";
+?>

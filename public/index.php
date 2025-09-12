@@ -14,8 +14,9 @@ include '../app/configuracao.php';
 </head>
 <body>
    <?php
-   include '../app/Views/header.php';
-   include '../app/Views/footer.php';
+    include '../app/Views/header.php';
+    $rotas = new Rota();
+    include '../app/Views/footer.php';
    ?>
 </body>
 </html>
