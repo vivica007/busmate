@@ -3,7 +3,6 @@
 </head>
 
 <div class="sobre-scope">
-  <!-- ===== HERO AMARELO ===== -->
   <section class="hero">
     <div class="container hero-inner">
       <img class="logo-hero" src="<?=URL?>/public/img/logo_roxa.png" alt="BusMate">
@@ -15,11 +14,9 @@
     </div>
   </section>
 
-  <!-- ===== CONTEÚDO ===== -->
   <main class="about">
     <div class="container">
 
-      <!-- 1º parágrafo + imagem -->
       <div class="intro">
         <div class="texto-intro">
           <h2>Sobre o BusMate</h2>
@@ -38,7 +35,6 @@
         </div>
       </div>
 
-      <!-- resto do texto -->
       <div class="detalhes">
         <p>
           Nosso sistema foi desenvolvido por uma equipe jovem e inovadora do Instituto Federal de Rondônia
@@ -56,7 +52,6 @@
 
         <p><strong>Nosso compromisso é eliminar a desorganização, reduzir falhas e aproximar a tecnologia da comunidade escolar.</strong></p>
       </div>
-
     </div>
   </main>
 </div>

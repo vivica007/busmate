@@ -14,5 +14,8 @@ class Paginas extends Controllers{
     public function entrar(){
         $this->view('paginas/entrar');
     }
+    public function cadastrar(){
+        $this->view('paginas/cadastrar');
+    }
 }//fim da classe Paginas
 ?>
